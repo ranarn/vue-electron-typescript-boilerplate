@@ -19,6 +19,7 @@ const createMainWindow = async () => {
     resizable: isDevelopment,
     webPreferences: {
       nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION as any,
+      contextIsolation: false,
       webSecurity: false
     }
   });
