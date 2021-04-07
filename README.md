@@ -20,7 +20,7 @@ $ npm run electron:serve
 
 ## What's Included
 
-- [Electron 10](https://www.electronjs.org/)
+- [Electron 12](https://www.electronjs.org/)
 - [Vue 2](https://vuejs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Vuetify](https://vuetifyjs.com/)
